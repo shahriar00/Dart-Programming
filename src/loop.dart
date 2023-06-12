@@ -32,6 +32,7 @@ void main()
       print(i);
       i++;
     }
+  
 //Do While Loop
     do{
       print(i);
