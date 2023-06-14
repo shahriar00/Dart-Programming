@@ -9,6 +9,7 @@ void main(){
    print(factorial(5));
 
 }
+
 //Recursive Function..................
 int factorial(int num)
 {
