@@ -2,6 +2,7 @@ class student{
   var name;
   var age;
   var gpa;
+  
 
   void details()
   {
