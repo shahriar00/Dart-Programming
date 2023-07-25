@@ -3,7 +3,6 @@ void main()
   var mobile = new Mobilename("IPhone 12 Pro", "2020");
 
 }
-
 class Mobilename{
   var modelname;
   var man_year;
@@ -15,6 +14,5 @@ class Mobilename{
     print("${modelname},${man_year}");
 
   }
-
 
 }
