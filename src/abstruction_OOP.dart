@@ -4,6 +4,7 @@ abstract class Person{
   }
 }
 
+
 class Boy extends Person{
   void personinformation()
   {
