@@ -7,8 +7,6 @@ class College{
   void stu_details(name,rollno){
     this.name = name;
     this.rollno = rollno;
-
-
   }
 
   void display(){
