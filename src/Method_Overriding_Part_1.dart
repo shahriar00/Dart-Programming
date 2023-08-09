@@ -2,7 +2,6 @@ class College{
   // Declaring variables
   String name =  '';
   int rollno = 1;
-
 // Overriden Method
   void stu_details(name,rollno){
     this.name = name;
