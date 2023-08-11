@@ -14,7 +14,6 @@ class College{
     print("The result is passed");
 
   }
-
 }
 
 class Student extends College{
