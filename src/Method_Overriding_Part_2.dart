@@ -12,7 +12,6 @@ class sabbir extends Human{
   }
 
 }
-
 void main()
 {
   sabbir s = new sabbir();
