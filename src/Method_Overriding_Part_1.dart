@@ -1,4 +1,5 @@
 class College{
+  print("This is method Overriding class....");
   // Declaring variables
   String name =  '';
   int rollno = 1;
@@ -14,6 +15,7 @@ class College{
     print("The result is passed");
 
   }
+  
 }
 
 class Student extends College{
