@@ -1,5 +1,5 @@
 class College{
-  print("This is method Overriding class....");
+
   // Declaring variables
   String name =  '';
   int rollno = 1;
@@ -10,6 +10,7 @@ class College{
   }
 
   void display(){
+    print("This is method Overriding class....");
     print("The student name:${name}");
     print("The student rollno: ${rollno}");
     print("The result is passed");
