@@ -3,7 +3,6 @@ class Human{
     print("Human is running");
 }
 }
-
 class sabbir extends Human{
   void run()
   {
