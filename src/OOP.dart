@@ -3,7 +3,6 @@ class student{
   var age;
   var gpa;
 
-
   void details()
   {
     print('Student Name: ${name}');
