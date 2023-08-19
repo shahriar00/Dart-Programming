@@ -3,7 +3,6 @@ class Human{
     print("Human is running");
 }
 }
-
 class sabbir extends Human{
   void run()
   {
@@ -12,7 +11,6 @@ class sabbir extends Human{
   }
 
 }
-
 void main()
 {
   sabbir s = new sabbir();
