@@ -1,5 +1,4 @@
 
-
 class student{
   late String name ;
   late int age ;
