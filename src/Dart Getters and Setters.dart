@@ -3,7 +3,6 @@ class student{
   late String name ;
   late int age ;
   late String stdBranch ;
-
   String get getname{
     return name;
 
