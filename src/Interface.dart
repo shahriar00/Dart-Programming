@@ -9,13 +9,10 @@ class engineer implements Employee{
     print("This is Engineer class");
   }
 }
-
 // void main(){
 //   engineer e = new engineer();
 //   e.display();
 // }
-
-
 class Student
 {
   String name = '';
