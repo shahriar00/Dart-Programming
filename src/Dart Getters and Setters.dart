@@ -4,7 +4,6 @@ class student{
   late String stdBranch ;
   String get getname{
     return name;
-
   }
   void set setname(String name){
     this.name = name;
