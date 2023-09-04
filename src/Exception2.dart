@@ -11,7 +11,6 @@ void check_marks(int marks) {
     throw new FormatException();  // Raising explanation externally
   }
 }
-
 // class AmtException implements Exception {
 //   String expMsg() => 'Entered Amount should be greater than zero';
 // }
