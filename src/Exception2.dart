@@ -12,7 +12,6 @@ void check_marks(int marks) {
   }
 }
 
-
 // class AmtException implements Exception {
 //   String expMsg() => 'Entered Amount should be greater than zero';
 // }
