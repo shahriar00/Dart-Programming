@@ -6,13 +6,12 @@ main() {
     print('The marks cannot be negative');
   }
 }
+
 void check_marks(int marks) {
   if(marks<0) {
     throw new FormatException();  // Raising explanation externally
   }
 }
-
-
 // class AmtException implements Exception {
 //   String expMsg() => 'Entered Amount should be greater than zero';
 // }
