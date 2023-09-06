@@ -8,7 +8,6 @@ typedef MultiOperation(int num1,int num2);
     print(n1-n2);
   }
 
-
 void main()
 {
   MultiOperation mp = sum;
