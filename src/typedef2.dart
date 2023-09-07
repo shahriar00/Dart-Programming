@@ -13,7 +13,6 @@ NumericOperation(int n1,int n2,MultiOperation mp)
   mp(n1,n2);
 }
 void main() {
-
   NumericOperation(20, 10, Sum);
   NumericOperation(20, 10, Sub);
 }
