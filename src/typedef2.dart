@@ -12,7 +12,6 @@ NumericOperation(int n1,int n2,MultiOperation mp)
   print("Inside Operation.....");
   mp(n1,n2);
 }
-
 void main() {
 
   NumericOperation(20, 10, Sum);
