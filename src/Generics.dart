@@ -1,6 +1,7 @@
 //Dart Generics are the same as the Dart collections, which are used to store the homogenous data.
 // As we discussed in the Dart features, it is an optionally typed language.
 
+
 // void main() {
 //   List <String> logStr = new List <String>();
 //   logStr.add("CHECK");
@@ -12,7 +13,6 @@
 //     print(i);
 //   }
 // }
-
 
 
 // void main() {
