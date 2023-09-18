@@ -6,7 +6,7 @@ void main() {
   queue.addLast(205);
   queue.addLast(315);
   queue.addLast(470);
-  // Remove the first element of queue
+
   queue.removeFirst();
 
   for(int i in queue){
