@@ -9,7 +9,6 @@ void main(){
 
   print(geeks..sort());
 
-
   // Creating list of string
   List<String> demo = ['one', 'two', 'three', 'four'];
 
