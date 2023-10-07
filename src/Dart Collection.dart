@@ -1,5 +1,4 @@
 import 'dart:collection';
-
 void main(){
   Queue q = new Queue();
   q.addAll([1,2,4,54]);
