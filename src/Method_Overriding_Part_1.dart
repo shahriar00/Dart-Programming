@@ -19,6 +19,7 @@ class College{
   
 }
 
+
 class Student extends College{
 // Overriding Method
   void stu_details(name,rollno){
