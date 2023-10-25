@@ -5,6 +5,7 @@ class Node<T> {
 
   Node(this.value);
 }
+
 class LinkedList<T> {
   Node<T>? head; // Reference to the first node in the list
 
