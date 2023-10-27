@@ -10,7 +10,6 @@ void main() {
   print(array2);
 //Output array2 --> [5, 6, 7]
 
-
   var Array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   for(int i=0; i<Array.length; i++){
     print(Array[i]);
