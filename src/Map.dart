@@ -1,6 +1,7 @@
 void main(){
   var map = {};
   print(map);
+  
 
 // adding an entry whose key is "name" and value is "dami"
   map["name"] = "dami";
