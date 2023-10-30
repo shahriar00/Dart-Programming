@@ -3,6 +3,7 @@ class student{
   var age;
   var gpa;
 
+
   void details()
   {
     print('Student Name: ${name}');
@@ -12,6 +13,8 @@ class student{
   }
 
 }
+
+
 class task{
   var name;
   var time;
