@@ -7,6 +7,7 @@ int linear_search(List<int> a, x){
   return -1;
 }
 
+
 void main(){
   List<int> list = [1,11,2,31,4,6];
 
