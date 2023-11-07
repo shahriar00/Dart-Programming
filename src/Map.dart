@@ -1,6 +1,7 @@
 void main(){
   var map = {};
   print(map);
+  
 
 // adding an entry whose key is "name" and value is "dami"
   map["name"] = "dami";
@@ -21,6 +22,7 @@ void main(){
   map['name'] = 'john';
   print(map['name']);
 
+  
   var maplist = {
     'ten': 10,
     'eleven': 11,
