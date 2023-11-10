@@ -8,6 +8,7 @@ min(X, Y) {
   }
 }
 
+
 int jump_search(List a, int x) {
   int n = a.length;
   int step = sqrt(n).floor().toInt();
