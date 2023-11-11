@@ -6,6 +6,7 @@ class student{
     return name;
   }
   
+  
   void set setname(String name){
     this.name = name;
   }
