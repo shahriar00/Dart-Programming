@@ -3,7 +3,6 @@ class Employee{
     print("This is employee class");
   }
 }
-
 class engineer implements Employee{
   void display(){
     print("This is Engineer class");
