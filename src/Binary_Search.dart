@@ -1,3 +1,4 @@
+
 int binary_search(List a ,int l,int r,int x){
   if(r>=l){
     int middle = (l+(r-1)/2).toInt();
