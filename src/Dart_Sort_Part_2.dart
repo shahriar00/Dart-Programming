@@ -7,7 +7,6 @@ void main(){
 
   print(geek);
 
-
   print(geeks..sort());
 
   // Creating list of string
