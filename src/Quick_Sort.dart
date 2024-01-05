@@ -8,7 +8,7 @@ void main() {
   }
   print('before sorting:');
   print(list);
-  print('---------------------------------------------');
+
   print('After sorting:');
   print(quickSort(list));
 }

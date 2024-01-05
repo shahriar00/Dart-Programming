@@ -5,7 +5,6 @@ class Human{
     print("Human is running");
   }
 }
-
 class Man extends Human{
   // @Overriding method
   void run(){

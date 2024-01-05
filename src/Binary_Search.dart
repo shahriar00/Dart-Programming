@@ -1,5 +1,5 @@
-int binary_search(List a ,int l,int r,int x){
 
+int binary_search(List a ,int l,int r,int x){
   if(r>=l){
     int middle = (l+(r-1)/2).toInt();
 
@@ -15,6 +15,7 @@ int binary_search(List a ,int l,int r,int x){
   }
   return -1;
 }
+
 
 void main(){
   List<int> list = [1,11,2,31,4,6];
