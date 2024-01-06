@@ -1,6 +1,5 @@
 import 'dart:math' show Random;
 
-
 void main() {
   final seed = 100, rnd = Random(), length = 100;
   var list =
