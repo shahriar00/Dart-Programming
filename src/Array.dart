@@ -9,6 +9,7 @@ void main() {
   array2.add(6);
   array2.add(7);
   print(array2);
+  
 //Output array2 --> [5, 6, 7]
 
   var Array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
